@@ -1,0 +1,19 @@
+.text-color {
+    color: red;
+}
+
+.zenrez-dropdown {
+    position: relative;
+    display: inline-block;
+    display: none;
+}
+
+.zenrez-div-dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.size-box {
+    box-sizing: inherit;
+}
+
